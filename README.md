@@ -3,4 +3,4 @@
 
 Repositória criado durante aula gravada.
 
-Essa linha eu adicionei diretamente no site! IMPRESSIONANTE!
+Essa linha eu adicionei diretamente no site do GitHub! IMPRESSIONANTE!
